@@ -1,0 +1,29 @@
+{
+  "name": "vscode-theme-low-distraction",
+	"displayName": "Low Distraction Theme",
+	"description": "Low-distraction theme for Visual Studio Code.",
+	"version": "0.0.1",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/godzillachan/vscode-theme-low-distraction/issues"
+	},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/godzillachan/vscode-theme-low-distraction"
+  },
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Low Distraction Theme",
+        "uiTheme": "vs",
+        "path": "./themes/vscode-theme-low-distraction.json"
+      }
+    ]
+  }
+}
