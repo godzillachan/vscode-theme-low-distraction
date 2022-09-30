@@ -31,3 +31,6 @@ What font is used in the screenshots?
   "editor.letterSpacing": -0.5,
 }
 ```
+## Acknowledgements
+
+Borrowed the code for clean borderless UI and base colors from [Github Light Theme](https://marketplace.visualstudio.com/items?itemName=Hyzeta.vscode-theme-github-light)
