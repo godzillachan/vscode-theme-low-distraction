@@ -191,6 +191,17 @@
 			}
 		},
 		{
+			"name": "Variable: this/self",
+			"scope": [
+				"variable.language.this.cpp",
+				"variable.language.special.self.python"
+			],
+			"settings": {
+				"foreground": "#d73a49",
+				"fontStyle": "bold"
+			}
+		},
+		{
 			"name": "Classes",
 			"scope": [
 				"entity.name.type",
@@ -289,6 +300,18 @@
 		"macro": {
 			"foreground": "#606060",
 			"fontStyle": "bold"
+		},
+		"selfParameter": {
+			"foreground": "#d73a49",
+			"fontStyle": "bold"
+		},
+		"method.declaration:python": {
+			"foreground": "#000000",
+			"fontStyle": "bold"
+		},
+		"method": {
+			"foreground": "#000000",
+			"fontStyle": "italic"
 		}
 	}
 }
