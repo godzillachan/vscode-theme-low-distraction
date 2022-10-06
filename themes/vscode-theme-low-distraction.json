@@ -298,7 +298,7 @@
 			"fontStyle": "bold"
 		},
 		"macro": {
-			"foreground": "#606060",
+			"foreground": "#000000",
 			"fontStyle": "bold"
 		},
 		"selfParameter": {
