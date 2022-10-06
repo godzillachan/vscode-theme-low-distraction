@@ -11,6 +11,7 @@
     "type": "git",
     "url": "https://github.com/godzillachan/vscode-theme-low-distraction"
   },
+  "icon": "icon.png",
   "engines": {
     "vscode": "^1.71.0"
   },
